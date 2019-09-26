@@ -1,0 +1,27 @@
+{
+  "name": "fcc-api-projects-timestamp",
+  "version": "0.0.1",
+  "description": "An FCC Backend Challenge - Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcusreaiche/api-ms-project1-timestamp"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express",
+    "freecodecamp"
+  ],
+  "license": "MIT"
+}
